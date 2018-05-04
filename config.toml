@@ -16,14 +16,14 @@ GithubToken = "GLYPH_GITHUB_TOKEN"
 # Users defines all users whose issues will be imported into the blog
 # the first user must be the owner of the blog repository
 # all usernames are login names for github
-Users = ["your-github-username"]
+Users = ["5k3105"]
 # Name is just the name of the repository containing the blog issues/articles
 Name = "blog"
 
 # section Site contains all data that will be used in the statically generated html.
 [Site]
-Title = "Your Site Title"
-Author = "Your Name"
+Title = "Blog 1"
+Author = "5k3105"
 OneLineDesc = "A short description of your content or something clever.."
 Twitter = "Your Twitter handle"
 Mail = "your email address"
