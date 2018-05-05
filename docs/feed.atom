@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog 1</title>
   <id>https://5k3105.github.io/blog</id>
-  <updated>2018-05-04T11:40:38-06:00</updated>
+  <updated>2018-05-05T12:25:13-06:00</updated>
   <subtitle>A short description of your content or something clever..</subtitle>
   <link href="https://5k3105.github.io/blog"></link>
   <author>
@@ -13,7 +13,7 @@
     <updated>2018-05-04T17:38:11Z</updated>
     <id>tag:5k3105.github.io,2018-05-04:/blog/1-xyz.html</id>
     <link href="https://5k3105.github.io/blog/1-xyz.html" rel="alternate"></link>
-    <summary type="html">etc</summary>
+    <summary type="html">The vast plain on which Chengdu is located has an elevation ranging from 450 to 720 metres (1,480 to 2,360 feet).</summary>
     <author>
       <name>5k3105</name>
       <email>your email address</email>
